@@ -1,0 +1,16 @@
+{
+  "name": "com.unity.upmframe",
+  "displayName": "UPMFrame-Common",
+  "version": "0.0.1",
+  "unity": "2018.2",
+  "type": "library",
+  "keywords": [
+    "UPMFrame",
+    "unity"
+  ],
+  "author": {
+    "name": "liuaf",
+    "email": "329737941@qq.com",
+    "url": ""
+  }
+}
